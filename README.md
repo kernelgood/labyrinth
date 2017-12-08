@@ -1,5 +1,5 @@
 # labyrinth
-Labyrinth is a lightweight mind-mapping tool (and looking for maintainers)
+Labyrinth is a lightweight mind-mapping tool on Python 2
 <br>Labyrinth это легковесный генератор интеллект-карт на Python 2
 # Установка на Windows:
 Скачайте и распакуйте zip-архив с программой
